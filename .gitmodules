@@ -1,0 +1,12 @@
+[submodule "delivery-serviceregistry"]
+	path = delivery-serviceregistry
+	url = https://github.com/gabrielffguimaraes/delivery-serviceregistry
+[submodule "delivery-payment-service"]
+	path = delivery-payment-service
+	url = https://github.com/gabrielffguimaraes/delivery-payment-service
+[submodule "delivery-order-service"]
+	path = delivery-order-service
+	url = https://github.com/gabrielffguimaraes/delivery-order-service
+[submodule "delivery-gateway"]
+	path = delivery-gateway
+	url = https://github.com/gabrielffguimaraes/delivery-gateway
