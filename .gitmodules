@@ -10,3 +10,6 @@
 [submodule "delivery-gateway"]
 	path = delivery-gateway
 	url = https://github.com/gabrielffguimaraes/delivery-gateway
+[submodule "delivery-avaliacao-service"]
+	path = delivery-avaliacao-service
+	url = https://github.com/gabrielffguimaraes/delivery-avaliacao-service.git
